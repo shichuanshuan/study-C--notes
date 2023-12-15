@@ -1,0 +1,5 @@
+﻿  24 结构体指针.cpp
+g:\c++\24 结构体指针\24 结构体指针\24 结构体指针.cpp(23): error C2679: 二进制“=”: 没有找到接受“int”类型的右操作数的运算符(或没有可接受的转换)
+  g:\c++\24 结构体指针\24 结构体指针\24 结构体指针.cpp(11): note: 可能是“Student &Student::operator =(Student &&)”
+  g:\c++\24 结构体指针\24 结构体指针\24 结构体指针.cpp(11): note: 或    “Student &Student::operator =(const Student &)”
+  g:\c++\24 结构体指针\24 结构体指针\24 结构体指针.cpp(23): note: 尝试匹配参数列表“(Student, int)”时
